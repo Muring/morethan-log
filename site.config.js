@@ -12,8 +12,20 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/muring/morethan-log",
+      name: `GHIBURI`,
+      href: "https://github.com/muring/GHIBURI",
+    },
+    {
+      name: `SEAS`,
+      href: "https://github.com/muring/SEAS",
+    },
+    {
+      name: `MOMO`,
+      href: "https://github.com/muring/MOMO",
+    },
+    {
+      name: `VITA`,
+      href: "https://github.com/muring/VITA",
     },
   ],
   // blog setting (required)
